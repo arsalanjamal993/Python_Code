@@ -1,0 +1,37 @@
+{
+    "ID": [
+        101,
+        102,
+        103,
+        104,
+        105
+    ],
+    "Name": [
+        "Alpha",
+        "Beta",
+        "Gamma",
+        "Delta",
+        "Epsilon"
+    ],
+    "Department": [
+        "HR",
+        "IT",
+        "Finance",
+        "Marketing",
+        "Operations"
+    ],
+    "Salary": [
+        50000,
+        60000,
+        55000,
+        58000,
+        62000
+    ],
+    "Active": [
+        true,
+        true,
+        false,
+        true,
+        false
+    ]
+}
